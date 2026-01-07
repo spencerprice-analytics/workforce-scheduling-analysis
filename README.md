@@ -1,4 +1,4 @@
-# workforce-scheduling-analysis
+# Workforce Scheduling Analysis
 
 ## Overview
 This project analyses workforce scheduling data to assess whether staffing levels are aligned with workload demand across shifts and demand periods. The analysis combines Excel-based exploration with SQL-style aggregation logic to identify staffing pressure and misalignment.
